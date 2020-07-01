@@ -8,3 +8,6 @@ echo installing brew
 echo
 echo installing oh-my-zsh
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+
+brew install vim
+brew install jq
