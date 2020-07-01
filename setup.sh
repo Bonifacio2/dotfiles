@@ -11,3 +11,5 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 
 brew install vim
 brew install jq
+
+echo "source $(pwd)/aliases" >> ~/.zshrc
