@@ -1,3 +1,4 @@
 alias d=docker
+alias c=docker-compose
 alias k=kubectl
 alias p=python3
