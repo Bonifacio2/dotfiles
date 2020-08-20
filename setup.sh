@@ -11,5 +11,6 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 
 brew install vim
 brew install jq
+brew install ctags
 
 echo "source $(pwd)/aliases" >> ~/.zshrc
