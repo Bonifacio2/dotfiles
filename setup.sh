@@ -1,5 +1,5 @@
 echo updating ~/.vimrc file
-ln -s vim/.vimrc ~/.vimrc
+ln -s $(pwd)/vim/.vimrc ~/.vimrc
 
 echo
 echo installing brew
